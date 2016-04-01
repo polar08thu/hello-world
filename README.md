@@ -8,6 +8,7 @@ This is a test of Markdown functionalities - hope it works!
 How about a **real hard** word and a *light* one?
 
 Some to-do-list:
+
 1. Headline
 2. Bold & italic
 3. List
@@ -21,7 +22,7 @@ Some to-do-list:
 Some quotes:
 > There's only one ture heronism in the world - to know the world as it is and to love it. > - Romain Rolland
 
-This is a `code'.
+This is a `code`.
 This is a block of code:
 ```Python
 def foo():
